@@ -39,6 +39,10 @@ button {
 .header {
 }
 .header-logo {
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 93%;
+  color: #173a56;
 }
 .logo {
 }
@@ -49,6 +53,8 @@ button {
 .header-nav-item {
 }
 .header-nav-link {
+  line-height: 175%;
+  color: #22343d;
 }
 .header-btn-list {
 }
