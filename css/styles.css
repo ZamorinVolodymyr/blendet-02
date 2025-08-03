@@ -1,0 +1,58 @@
+body {
+  font-family: Poppins, sans-serif;
+  background-color: #fff;
+  color: #22343d;
+  padding: 20px;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style-type: none;
+  padding-left: 0;
+  margin: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
+}
+
+img {
+  display: block;
+}
+
+button {
+  cursor: pointer;
+  font-family: inherit;
+}
+
+/* HEADER */
+
+.header {
+}
+.header-logo {
+}
+.logo {
+}
+.header-nav {
+}
+.header-nav-list {
+}
+.header-nav-item {
+}
+.header-nav-link {
+}
+.header-btn-list {
+}
+.header-btn-item {
+}
+.header-btn {
+}
